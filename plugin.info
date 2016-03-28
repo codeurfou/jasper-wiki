@@ -1,0 +1,10 @@
+[Plugin]
+Name = wiki
+Version = 1.0.0
+License = MIT
+URL = http://jasperproject.github.io/
+Description = Wikipedia
+
+[Author]
+Name = 
+URL = http://jasperproject.github.io/
